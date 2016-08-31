@@ -1,1 +1,5 @@
+# Block access to git files
 RedirectMatch 404 /\.git
+
+# Redirections d'URL interne suite a des changements
+Redirect 301 /fr/comment-entrainer-une-arene.html /fr/guides/entrainer-une-arene/ 

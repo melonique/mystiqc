@@ -1,3 +1,3 @@
 <?php
 
-header('Location: /fr/index.html');
+header('Location: /fr/');

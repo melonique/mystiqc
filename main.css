@@ -28,6 +28,10 @@ header .title p:first-child {
     font-size: 2em;
 }
 
+header .white {
+    color: #f1f1f1;
+}
+
 .admins {
     width: 100%;
     text-align: center;
@@ -43,6 +47,10 @@ main, footer {
     font-size: 1.25em;
     text-align: justify;
     max-width: 800px;
+}
+
+main a {
+    color: #f1f1f1;
 }
 
 footer {

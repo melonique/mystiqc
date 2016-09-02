@@ -1,5 +1,5 @@
 body {
-    color: #1a1a1a;
+    color: black;
     background-color: #0075f0;
     margin: 0;
 }
@@ -26,6 +26,15 @@ header .title p {
 
 header .title p:first-child {
     font-size: 2em;
+}
+
+.admins {
+    width: 100%;
+    text-align: center;
+}
+.admins img {
+    border: 4px solid white;
+    border-radius: 4px;
 }
 
 main, footer {

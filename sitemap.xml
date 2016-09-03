@@ -6,5 +6,6 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url><loc>https://mysticqc.tk/fr/</loc></url>
 <url><loc>https://mysticqc.tk/fr/pages/slack/</loc></url>
+<url><loc>https://mysticqc.tk/fr/pages/documents/</loc></url>
 <url><loc>https://mysticqc.tk/fr/guides/entrainer-une-arene/</loc></url>
 </urlset>

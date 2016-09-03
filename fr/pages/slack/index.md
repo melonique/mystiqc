@@ -24,12 +24,9 @@ La liste des « channels » apparaît à gauche. Pour joindre un canal, cliquez 
 
 Pour consulter les fichiers partagés visitez l'onglet « channel details ». Pour l'ouvrir, cliquez l'icône carrée en haut à droite. Pour plus de détails consultez [l'aide sur les objets épinglés][sh-pinned].
 
-Mais simplement, la liste des documents importants:
+Ou simplement consulter la liste [documents importants][mqc-docs].
 
- * [Ressources et outils indispensables](https://teammysticqc.slack.com/files/akeif/F1X5R7L78/Ressources_et_outils_indispensables)
- * [Zones de farming de Pokéstops](https://teammysticqc.slack.com/files/akeif/F1XCDARPW/Zone_de_farming_de_Pokestops)
- * [Arènes de la ville de Québec](https://teammysticqc.slack.com/files/akeif/F27SNDRC5/screenshot_2016-09-02_15-53-48.png)
-
+[mqc-docs]:/fr/pages/documents
 [sh-pinned]:https://get.slack.help/hc/en-us/articles/205239997-Pinning-messages-and-files
 
 ## Demande d'aide

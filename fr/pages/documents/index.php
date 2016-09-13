@@ -1,24 +1,6 @@
-<!doctype html>
-<html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-
-        <title>Documents importants</title>
-        <meta name="description" content="">
-
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-       <link href="https://fonts.googleapis.com/css?family=PT+Sans:700|Raleway:300,500" rel="stylesheet">
-
-        <link rel="shortcut icon" type=image/png href=/imgs/favicon.png>
-        <link rel="stylesheet" href="/main.css">
-    </head>
-    <body class="home">
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
+<?php $pageTitle = "Documents importants | MysticQc";
+        include($_SERVER['DOCUMENT_ROOT'].'/fr/head.inc.php');
+?>
 
 <img src="/imgs/header-mystiqc.svg" alt="" id="headerBG">
         <div class="wrapper">
@@ -51,16 +33,6 @@
 
 
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-84079411-1', 'auto');
-          ga('send', 'pageview');
 
-        </script>
-    </body>
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/fr/footer.inc.php'); ?>

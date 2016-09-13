@@ -51,12 +51,17 @@ header h1{
     display: block;
     margin:  0 auto;
 }
-main{
+main, aside{
     padding:  20px;
     background: #eee;
+
     border-bottom: 7px solid #004967;
   /*  box-shadow: 0 0 2px 2px rgba(0,0,0,0.4); */
 }
+main+aside{
+    margin-top:  -5px;
+}
+
 
 .admin{
     display:  inline-block;

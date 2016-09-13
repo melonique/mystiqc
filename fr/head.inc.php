@@ -14,7 +14,8 @@
         <link rel="shortcut icon" type=image/png href=/imgs/favicon.png>
         <link rel="stylesheet" href="/main.css">
     </head>
-    <body class="home">
+    <body class="<?php echo (isset($isHome))?"home": "" ;?>">
             <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+       <img src="/imgs/header-mystiqc.svg" alt="" id="headerBG">

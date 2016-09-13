@@ -2,10 +2,10 @@
         include($_SERVER['DOCUMENT_ROOT'].'/fr/head.inc.php');
 ?>
 
-<img src="/imgs/header-mystiqc.svg" alt="" id="headerBG">
         <div class="wrapper">
             <header>
                 <h1>Documents importants</h1>
+                <a class="retour" href="/fr">Accueil</a>
             </header>
             <main>
 

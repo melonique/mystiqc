@@ -19,7 +19,9 @@ body {
     color: #0b0b0b;
     background-color: #091A21;
     margin: 0;
-    padding: 0;
+}
+body:not(.home){
+    padding-top:  75px;
 }
 body.home{
     padding-top: 46%;
@@ -61,7 +63,22 @@ main, aside{
 main+aside{
     margin-top:  -5px;
 }
-
+a.retour{
+    text-align: left;
+    font-size: 0.9em;
+    margin: 0;
+    color: rgba(255,255,255,0.7);
+}
+a.retour:before{
+    content:  " ";
+    width: 0;
+    height: 0;
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px 5px 5px 0;
+    margin-right:  7px;
+    border-color: transparent rgba(255,255,255,0.7) transparent transparent;
+}
 
 .admin{
     display:  inline-block;
@@ -97,5 +114,9 @@ main+aside{
     body.home{
         padding-top:  350px;
     }
+
+body:not(.home){
+    padding-top:  75px;
+}
 
 }

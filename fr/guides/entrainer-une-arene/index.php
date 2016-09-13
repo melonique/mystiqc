@@ -3,10 +3,10 @@
 ?>
 
 
-<img src="/imgs/header-mystiqc.svg" alt="" id="headerBG">
         <div class="wrapper">
             <header>
                 <h1>Comment entrainer une arène</h1>
+                <a class="retour" href="/fr">Accueil</a>
             </header>
             <main>
 
